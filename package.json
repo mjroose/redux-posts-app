@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "redux-posts-app",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Simple redux blogging app using Stephen Grider Posts API",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -13,14 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mjroose/ReduxSimpleStarter.git"
+    "url": "git+ssh://git@github.com/mjroose/redux-posts-app.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mjroose/ReduxSimpleStarter/issues"
-  },
-  "homepage": "https://github.com/mjroose/ReduxSimpleStarter#readme",
   "dependencies": {
     "lodash": "^4.17.5",
     "react": "^16.2.0",
